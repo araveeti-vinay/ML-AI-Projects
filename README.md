@@ -1,2 +1,2 @@
-# ML-AI-Learnings
-ML AI Learnings
+# ML-AI-Projects
+ML AI Projects
